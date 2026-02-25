@@ -1,10 +1,13 @@
 <div align="center">
 
-<!-- Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=Adriana%20Su%C3%A1rez&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Frontend%20%26%20Fullstack%20Developer&descAlignY=55&descSize=18" width="100%" />
+# 👩‍💻 Adriana Suárez
 
-<!-- Typing animation -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Frontend+%26+Fullstack+Developer+%F0%9F%9A%80;React+%7C+Next.js+%7C+TypeScript+%7C+Node.js;Building+fintech+%26+community+platforms;Based+in+Madrid%2C+Spain)](https://readme-typing-svg.demolab.com)
+### Frontend & Fullstack Developer · Madrid, Spain 🇪🇸
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
 </div>
 
@@ -16,12 +19,12 @@
 <tr>
 <td>
 
-**EN** — Frontend & Fullstack Developer based in Madrid, passionate about building clean, scalable, and user-focused web applications. Currently working at a fintech startup developing cryptocurrency trading and investment platforms. I love turning complex problems into elegant, intuitive interfaces.
+**EN** — Frontend & Fullstack Developer based in Madrid, currently building real-world projects and deepening my fullstack skills through an intensive bootcamp at Factoría F5. Passionate about creating clean, scalable, and user-focused web applications — from intuitive interfaces to solid backend architectures.
 
 </td>
 <td>
 
-**ES** — Desarrolladora Frontend & Fullstack con base en Madrid, apasionada por crear aplicaciones web limpias, escalables y centradas en el usuario. Actualmente trabajo en una startup fintech desarrollando plataformas de trading de criptomonedas e inversión. Me apasiona convertir problemas complejos en interfaces elegantes e intuitivas.
+**ES** — Desarrolladora Frontend & Fullstack con base en Madrid, actualmente construyendo proyectos reales y reforzando mis conocimientos fullstack en el bootcamp intensivo de Factoría F5. Me apasiona crear aplicaciones web limpias, escalables y centradas en el usuario — desde interfaces intuitivas hasta arquitecturas backend sólidas.
 
 </td>
 </tr>
@@ -94,20 +97,6 @@
 
 ---
 
-## 🌐 Connect with me / Encuéntrame en
-
 <div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adriana-su%C3%A1rez-4562a5249)
-[![Portfolio](https://img.shields.io/badge/Portfolio-A855F7?style=for-the-badge&logo=vercel&logoColor=white)]([https://github.com/Adriasu09/adriana-portfolio](https://adriana-portfolio-blue.vercel.app/))
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Adriasu09)
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer" width="100%" />
-
+<sub>Made with ❤️ by Adriana Suárez</sub>
 </div>
