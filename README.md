@@ -4,16 +4,11 @@
 
 ### Frontend & Fullstack Developer · Madrid, Spain 🇪🇸
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=nodedotjs&logoColor=white)
-
 </div>
 
 ---
 
-## 👩‍💻 About Me / Sobre mí
+## About Me / Sobre mí
 
 <table>
 <tr>
@@ -32,6 +27,25 @@
 
 ---
 
+## 🔨 Currently Working On / En proceso
+
+| Proyecto | Estado | Stack |
+|----------|--------|-------|
+| [🛼 Los Inmaduros Frontend](https://github.com/Adriasu09/los-inmaduros-frontend) | 🚧 En desarrollo | Next.js · TypeScript · Supabase · Clerk |
+| [⚙️ Los Inmaduros Backend](https://github.com/Adriasu09/los-inmaduros-backend) | 🚧 En desarrollo | Node.js · Express · Prisma · PostgreSQL |
+
+---
+
+## 📌 Projects / Proyectos
+
+| Proyecto | Descripción | Links |
+|----------|-------------|-------|
+| 🗂️ **adriana-portfolio** | Portfolio profesional con terminal UI interactiva, i18n (EN/ES) y modo oscuro/claro | [Repo](https://github.com/Adriasu09/adriana-portfolio) |
+
+> 🖼️ *Screenshots coming soon*
+
+---
+
 ## 🚀 Tech Stack
 
 ### 💻 Frontend
@@ -40,6 +54,7 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-black?style=for-the-badge&logo=framer&logoColor=blue)
 
 ### 🔧 Backend
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=nodedotjs&logoColor=white)
@@ -65,25 +80,7 @@
 
 ---
 
-## 📌 Featured Projects / Proyectos destacados
-
-<div align="center">
-
-| Proyecto | Descripción | Stack |
-|----------|-------------|-------|
-| [🗂️ adriana-portfolio](https://github.com/Adriasu09/adriana-portfolio) | Portfolio profesional con terminal UI interactiva, i18n (EN/ES) y modo oscuro/claro | Next.js · TypeScript · Tailwind · Framer Motion |
-| [🛼 los-inmaduros-frontend](https://github.com/Adriasu09/los-inmaduros-frontend) | Frontend de la comunidad de patinaje urbano Los Inmaduros Roller Madrid | Next.js · TypeScript · Supabase · Clerk |
-| [⚙️ los-inmaduros-backend](https://github.com/Adriasu09/los-inmaduros-backend) | API REST para la plataforma de Los Inmaduros Rollers Madrid | Node.js · Express · Prisma · PostgreSQL |
-
-</div>
-
----
-
 ## 📊 GitHub Stats
-
-<div align="center">
-
-</div>
 
 <div align="center">
 
